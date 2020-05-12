@@ -1,1 +1,1 @@
-# Harward-Website-with-php-and-DB and yes
+# Harward-Website-with-php-and-DB
